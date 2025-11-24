@@ -30,8 +30,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
@@ -41,3 +39,19 @@
   <img src="https://skillicons.dev/icons?i=excel" height="30"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=powerbi" height="30"/>
+</div>
+
+---
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+
+---
+
+### 🧩 Fun Fact  
+✨ I turn raw data into meaningful stories!
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mallikamudraboina/mallikamudraboina/output/snake.svg" alt="Snake animation"/>

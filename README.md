@@ -49,9 +49,3 @@
 
 ### 🧩 Fun Fact  
 ✨ I turn raw data into meaningful stories!
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mallikamudraboina/mallikamudraboina/output/snake.svg" alt="Snake animation"/>
